@@ -1,0 +1,47 @@
+[{
+  "firstName": "Иван",
+  "lastName": "Иванов",
+  "address": "г.Москва, ул. Алиева,72",
+  "phoneNumber": "164 123-1234"
+},{
+  "firstName": "Андрей",
+  "lastName": "Семенов",
+  "address": "г.Москва, ул. 1905 года,9",
+  "phoneNumber": "865 123-1234"
+},{
+  "firstName": "Артем",
+  "lastName": "Орешкин",
+  "address": "г.Москва, ул. Петрушкина,1",
+  "phoneNumber": "754 123-1234"
+},{
+  "firstName": "Алексей",
+  "lastName": "Камешкин",
+  "address": "г.Москва, ул. Кукушкина,46",
+  "phoneNumber": "356 176-2864"
+},{
+  "firstName": "Макс",
+  "lastName": "Дубин",
+  "address": "г.Москва, Проспект мира,87",
+  "phoneNumber": "815 943-1244"
+},{
+  "firstName": "Антон",
+  "lastName": "Дебрин",
+  "address": "г.Москва, ул. Свободы,2",
+  "phoneNumber": "897 123-1743"
+},{
+  "firstName": "Анастасия",
+  "lastName": "Галицкая",
+  "address": "г.Москва, ул. Сосновая,13",
+  "phoneNumber": "892 143-1234"
+},{
+  "firstName": "Иван",
+  "lastName": "Добронравов",
+  "address": "г.Москва, ул. Добрынинская,44",
+  "phoneNumber": "862 123-1732"
+},{
+  "firstName": "Иван",
+  "lastName": "Петров",
+  "address": "г.Москва, ул. Усиевича,8",
+  "phoneNumber": "512 423-9245"
+}
+]
